@@ -1,4 +1,4 @@
-# SkillSwap – Local Skill Exchange (Assignment-09_category_Sunflower)
+# SkillSwap – Local Skill Exchange 
 
 Live Link : skillswap-shihab.netlify.app
 
