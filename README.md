@@ -1,0 +1,23 @@
+# SkillSwap – Local Skill Exchange (Assignment-09_category_Sunflower)
+
+Live Link : skillswap-shihab.netlify.app
+
+## Purpose
+লোকাল কমিউনিটিতে স্কিল অফার/লার্ন/ট্রেড করার SPA।
+
+## Key Features
+- Firebase Auth (Email/Password  +  Google)
+- Protected Route + Redirect back
+- Skills JSON (6) + Popular grid + Details + Booking toast
+- Profile update (name, photo via updateProfile)
+- Forgot password (prefill + Gmail redirect)
+- Responsive UI (Tailwind + DaisyUI)
+- Animations: Swiper, AOS, Toast
+- SPA reload fix (/_redirects)
+
+## Tech & Packages
+- React + Vite + React Router
+- TailwindCSS + DaisyUI
+- `swiper`, `aos`, `react-hot-toast`, `clsx`
+
+## Env (Vite)
