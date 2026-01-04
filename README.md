@@ -1,6 +1,6 @@
 # SkillSwap – Local Skill Exchange 
 
-Live Link : skillswap-shihab.netlify.app
+Live Link : https://skillswap-project-1.netlify.app/
 
 ## Purpose
 লোকাল কমিউনিটিতে স্কিল অফার/লার্ন/ট্রেড করার SPA।
